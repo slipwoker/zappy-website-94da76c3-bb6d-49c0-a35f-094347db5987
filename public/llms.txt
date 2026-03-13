@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Dive into cutting-edge AI-generated movies and graffiti-inspired digital art. Best online store for digital products blending hip hop culture with street aesthetics.
+
+### Studio
+https://example.com/studio
+Explore our underground studio where AI technology meets raw street creativity. Discover how we craft bold, edgy digital entertainment rooted in urban culture.
+
+### Gallery
+https://example.com/gallery
+Shop exclusive sci-fi digital art downloads for creators and AI-generated content. Vibrant graffiti-inspired visuals meet futuristic storytelling in every piece.
+
+### Contact
+https://example.com/contact
+Got questions about our AI movies or digital downloads? Reach out to the Backalleytoonz team. We&#39;re here to bring your urban digital entertainment vision to life.
+
+### Products
+https://example.com/products
+Our Products - Backalleytoonz Shop
+
+### Cart
+https://example.com/cart
+Your Cart
+
+### Checkout
+https://example.com/checkout
+Checkout
+
+### Login
+https://example.com/login
+Customer Login
+
+### Account
+https://example.com/account
+My Account
+
+### Order Success
+https://example.com/order-success
+Thank you for your order
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - Backalleytoonz Shop
+
+### Category
+https://example.com/category/:slug
+Products - Backalleytoonz Shop
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
